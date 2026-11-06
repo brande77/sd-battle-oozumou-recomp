@@ -15,7 +15,7 @@ Work in progress. Uses the NESRecomp cycle backend.
 
 ## Requirements
 - Windows, CMake 3.20+, MinGW-w64, Python 3.11+
-- NESRecomp cycle backend (currently requires local modifications)
+- NESRecomp cycle backend
 - User-supplied original Japanese ROM
 
 ## Building
